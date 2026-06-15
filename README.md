@@ -10,6 +10,8 @@ Live Demo: `https://investment-intelligence-iota.vercel.app/`
 
 GitHub Repository: `https://github.com/Shivgg1234/INVESTMENT-INTELLIGENCE`
 
+Dashboard Link: `https://airtable.com/invite/l?inviteId=invL4EzcsBax0ljNG&inviteToken=8a9eafffc2f254048fd1f52cc7c82c99b9264115a05777e583f9a1cf891898e4&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts`
+
 ## Project Overview
 
 Stock Research Copilot allows a user to submit:
