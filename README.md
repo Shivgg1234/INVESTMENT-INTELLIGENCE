@@ -446,44 +446,29 @@ Users receive safe and readable error messages instead of internal system detail
 
 ## Screenshots
 
-Add screenshots to the `screenshots` directory and include them here.
-
 ### Landing Page
 
-```markdown
 ![Landing Page](screenshots/landing-page.png)
-```
 
 ### Result Dashboard
 
-```markdown
 ![Result Dashboard](screenshots/dashboard.png)
-```
 
 ### Support Chatbot
 
-```markdown
 ![Support Chatbot](screenshots/chatbot.png)
-```
 
 ### Airtable Dashboard
 
-```markdown
 ![Airtable Dashboard](screenshots/airtable-dashboard.png)
-```
 
 ### n8n Workflow
 
-```markdown
 ![n8n Workflow](screenshots/n8n-workflow.png)
-```
 
 ### PDF Report
 
-```markdown
 ![PDF Report](screenshots/pdf-report.png)
-```
-
 ## Engineering Highlights
 
 This project demonstrates:
