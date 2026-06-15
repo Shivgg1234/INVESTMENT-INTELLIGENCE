@@ -6,7 +6,7 @@ The project combines financial-data APIs, AI agents, workflow automation, docume
 
 ## Live Application
 
-Live Demo: `ADD_YOUR_VERCEL_URL_HERE`
+Live Demo: `https://investment-intelligence-iota.vercel.app/`
 
 GitHub Repository: `https://github.com/Shivgg1234/INVESTMENT-INTELLIGENCE`
 
@@ -452,7 +452,7 @@ Users receive safe and readable error messages instead of internal system detail
 
 ### Result Dashboard
 
-![Result Dashboard](screenshots/dashboard.png)
+![Result Dashboard](screenshots/result-dashboard.png)
 
 ### Support Chatbot
 
@@ -460,7 +460,7 @@ Users receive safe and readable error messages instead of internal system detail
 
 ### Airtable Dashboard
 
-![Airtable Dashboard](screenshots/airtable-dashboard.png)
+![Airtable Dashboard](screenshots/dashboard.png)
 
 ### n8n Workflow
 
@@ -469,6 +469,7 @@ Users receive safe and readable error messages instead of internal system detail
 ### PDF Report
 
 ![PDF Report](screenshots/pdf-report.png)
+
 ## Engineering Highlights
 
 This project demonstrates:
