@@ -317,7 +317,7 @@ Install:
 ### Clone the Repository
 
 ```bash
-git clone ADD_YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Shivgg1234/INVESTMENT-INTELLIGENCE
 cd Stock-Research-Copilot
 ```
 
